@@ -1,0 +1,25 @@
+{
+  "name": "tinh-tong-v1",
+  "version": "1.0.0",
+  "description": "tinh tong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "" : "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haianh-team/publish-npm.git"
+  },
+  "keywords": [
+    "tong"
+  ],
+  "author": "le hai anh <lehaianh111103@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haianh-team/publish-npm/issues"
+  },
+  "homepage": "https://github.com/haianh-team/publish-npm#readme"
+}
